@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{IMPx:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return a}));var o=t("hosL"),s=t("dfeD"),c=t.n(s),h=t("9DLV"),r=t.n(h);class a extends o.Component{render(){return Object(o.h)("div",{className:c.a.who},Object(o.h)(r.a,{title:"Who"}),Object(o.h)("h1",null,"Who"))}}},dfeD:function(e){e.exports={who:"who__3mD-t"}}}]);
+//# sourceMappingURL=route-who.chunk.187da.esm.js.map

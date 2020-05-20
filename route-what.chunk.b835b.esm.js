@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RtwK:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return r}));var a=e("hosL"),o=e("oYkm"),s=e.n(o),c=e("9DLV"),h=e.n(c);class r extends a.Component{render(){return Object(a.h)("div",{className:s.a.what},Object(a.h)(h.a,{title:"What"}),Object(a.h)("h1",null,"What"))}}},oYkm:function(t){t.exports={what:"what__2_xNN"}}}]);
+//# sourceMappingURL=route-what.chunk.b835b.esm.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{MQXr:function(n){n.exports={work:"work__3jlu2"}},Ugpu:function(n,e,r){"use strict";r.r(e),r.d(e,"default",(function(){return a}));var o=r("hosL"),t=r("MQXr"),s=r.n(t),c=r("9DLV"),u=r.n(c);class a extends o.Component{render(){return Object(o.h)("div",{className:s.a.work},Object(o.h)(u.a,{title:"Work"}),Object(o.h)("h1",null,"Work"))}}}}]);
+//# sourceMappingURL=route-work.chunk.377f9.esm.js.map
